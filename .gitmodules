@@ -1,0 +1,6 @@
+[submodule "Game1"]
+	path = Game1
+	url = https://github.com/jiajunhanh/CS15466-Game1.git
+[submodule "Game2"]
+	path = Game2
+	url = https://github.com/jiajunhanh/CS15466-Game2.git
